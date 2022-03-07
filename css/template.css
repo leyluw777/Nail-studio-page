@@ -1,8 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
 .common {
-    max-width: 1500px  !important;
-    min-height: 1500px;
-    padding: 0 !important;
-    margin:0 !important;
+    max-width: 100%  ;
+
 }
 
 /* Header div */
